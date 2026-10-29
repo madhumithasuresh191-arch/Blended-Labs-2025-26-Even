@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: S Madhumitha
+* **Register Number**: 212225040217
+* **Date of Submission**: 29-10-2026
 
 ---
 
@@ -99,21 +99,18 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="914" height="873" alt="Screenshot 2026-10-29 202736" src="https://github.com/user-attachments/assets/ad4460cb-0b40-4b73-9c82-3b7c26a5dd88" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1799" height="797" alt="Screenshot 2026-10-29 202759" src="https://github.com/user-attachments/assets/82bea9e4-e2b7-46ff-a3e7-67940bf8910b" />
 
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="940" height="865" alt="Screenshot 2026-10-29 202814" src="https://github.com/user-attachments/assets/0617d8a8-d510-4c33-99ca-4098906e9cd9" />
 
----
 
 ## Result 
 
